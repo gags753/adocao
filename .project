@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Associação de adoção</name>
+=======
+	<name>adocao</name>
+>>>>>>> c581a0f9a03e3e1478791dcb2354aa05ce8f87f2
 	<comment></comment>
 	<projects>
 	</projects>
